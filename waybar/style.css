@@ -1,0 +1,31 @@
+* {
+	 color: pink;
+	 border: none;
+	 border-radius: 0px;
+	 font-family: VictorMonoNerdFont;
+	 font-size: 16px;
+	 min-height: 0px;
+	 background: transparent;
+}
+
+#clock, #network, #pulseaudio, #cpu, #memory, #temperature{
+	background-color: rgba(0,0,0,0.8);
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+#clock, #network{
+	border-radius: 15px 0px 15px 0px;
+}
+
+#clock{
+	border-radius: 0px 0px 15px;
+}
+
+#pulseaudio, #cpu, #memory{
+	border-radius: 0px 15px 0px 15px;
+}
+
+#temperature{
+	border-radius: 0px 0px 0px 15px;
+}
