@@ -1,0 +1,6 @@
+2025/02/19-19:04:28.633 90df Creating DB /home/gorcing/.config/GitKraken/WebStorage/1/IndexedDB/indexeddb.leveldb since it was missing.
+2025/02/19-19:04:28.662 90df Reusing MANIFEST /home/gorcing/.config/GitKraken/WebStorage/1/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/02/19-19:04:28.957 90dd Level-0 table #5: started
+2025/02/19-19:04:28.963 90dd Level-0 table #5: 2647 bytes OK
+2025/02/19-19:04:28.972 90dd Delete type=0 #3
+2025/02/19-19:04:28.972 90d1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
